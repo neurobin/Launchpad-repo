@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Tue, 08 Sep 2015 21:46:23 +0600
+Source: rnm
+Binary: rnm
+Architecture: source
+Version: 3.0.4-2
+Distribution: trusty
+Urgency: low
+Maintainer: Jahidul Hamid <jahidulhamid@yahoo.com>
+Changed-By: Jahidul Hamid <jahidulhamid@yahoo.com>
+Description: 
+ rnm        - Bulk rename utility
+Changes: 
+ rnm (3.0.4-2) trusty; urgency=low
+ .
+   * Bug fix: Directory index bug.
+   * Feature addition: New name string rule /pd/ and /wd/
+   * New search string format: "/regex/" is equivalent to "regex"
+   * This is 64 bit version
+Checksums-Sha1: 
+ 320c4701ca653228c235ad83952aa956b5d4de38 1305 rnm_3.0.4-2.dsc
+ c15a56eb663c49503b53dc6f0f663da3954a505a 92308 rnm_3.0.4.orig.tar.xz
+ 2237298a4c7186b9706216641e5983cdc1225e86 109609 rnm_3.0.4-2.debian.tar.gz
+Checksums-Sha256: 
+ b29385901d95a25bf60fd031b0525c4578068a30ede8b272788cfe987752b9d7 1305 rnm_3.0.4-2.dsc
+ dc0fdfe3ba817f0879b139e4d0824d23b25954b1ea1cfbdf81d74bf20c238b98 92308 rnm_3.0.4.orig.tar.xz
+ c033e187bf83e4da0a37bd0cef83f841bea163b8e39fed83ab5004ff38478da3 109609 rnm_3.0.4-2.debian.tar.gz
+Files: 
+ 13167606e0055ae2da1759b2b085b3f4 1305 utils optional rnm_3.0.4-2.dsc
+ dfed5eae48331da4e2456e8d5666ac0b 92308 utils optional rnm_3.0.4.orig.tar.xz
+ 5b79e493e17c8bfe8ca8c4e45f66b008 109609 utils optional rnm_3.0.4-2.debian.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJV7xb/AAoJEONn/UzJtwjUifsH/30LqI7X8o56GFp0nfPMkk+0
+hN3Vb0Zt+usEbatYQd/5aAnvUKDSH0I7B5wBcculJX6Zt+/5zcPxsySN0yYlb1vo
+GMKaDKlP0+hsswVtMe3bjcwJ5bisf55UEBsHoThEcve+XXi1GZzGEkRFryn5//B9
+DKTSnDOmwICyz2d1xPWLeq5vdSdm95m//rpKAc9ZfGGSUDuf5yKsgfYGlD07blbb
+QdyMJRIyIWxDoL0vKj2ucPjLAaLRZUNEKI01XkTrWC4D20q76afCINGM6Jj+A0rZ
+UuKbZxueR8wwBepzYUGptFTHHbcr5TO9gXwDd7MwOpzt0cETlGs0AMz9lFHN29o=
+=b7ee
+-----END PGP SIGNATURE-----

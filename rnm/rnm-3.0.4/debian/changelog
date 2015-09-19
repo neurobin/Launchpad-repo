@@ -1,0 +1,8 @@
+rnm (3.0.4-2) trusty; urgency=low
+
+  * Bug fix: Directory index bug.
+  * Feature addition: New name string rule /pd/ and /wd/
+  * New search string format: "/regex/" is equivalent to "regex"
+  * This is 64 bit version
+
+ -- Jahidul Hamid <jahidulhamid@yahoo.com>  Tue, 08 Sep 2015 21:46:23 +0600

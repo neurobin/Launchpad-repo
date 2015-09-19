@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sat, 19 Sep 2015 21:04:31 +0600
+Source: rnm
+Binary: rnm
+Architecture: source
+Version: 3.0.5-2
+Distribution: trusty
+Urgency: low
+Maintainer: Jahidul Hamid <jahidulhamid@yahoo.com>
+Changed-By: Jahidul Hamid <jahidulhamid@yahoo.com>
+Description: 
+ rnm        - Bulk rename utility
+Changes: 
+ rnm (3.0.5-2) trusty; urgency=low
+ .
+   * -- option added. Anything after this option will be taken as file path.
+   * Added warning for multiple defintion of the same option i.e option override.
+Checksums-Sha1: 
+ 360b131bbd63d93fcb1991d684ed556c70131064 1305 rnm_3.0.5-2.dsc
+ 5e7ed09bf349fff842dafdb8fdfe0a2fd1f47f6b 94804 rnm_3.0.5.orig.tar.xz
+ d52166df13900c091805ed945676b0dd3dbb2e86 112658 rnm_3.0.5-2.debian.tar.gz
+Checksums-Sha256: 
+ a9adc793f169f7fb2d47c664c958cc6901e45161ccc26bf6dcf97eeb4d685177 1305 rnm_3.0.5-2.dsc
+ 4c26760cbbd8c7982b91b3777cf1b4ae7fa63d5dae74ac57ff78f4d1e6aaf1e2 94804 rnm_3.0.5.orig.tar.xz
+ 141ede2149b42c79eca1a87b3a2a58066c52e14b0aae8885adc3a693f782c642 112658 rnm_3.0.5-2.debian.tar.gz
+Files: 
+ 2d12a9830a327bc2be2c4649999b4223 1305 utils optional rnm_3.0.5-2.dsc
+ cfaed3de477b8aa471bec0d770413ad8 94804 utils optional rnm_3.0.5.orig.tar.xz
+ d1065090618fd78c7d9f13c8f3651bff 112658 utils optional rnm_3.0.5-2.debian.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJV/YHGAAoJEONn/UzJtwjUjooIAIKwHaFtxSWyn+fhb2BEOi6u
+WjjykG55zw6jAbfwOyowdUCjKgNcGrS0XRbScQWvHZwsVJSEtU5vvT0m2Mor+WyX
+9kIUKO8T4NVoK5sCXp82E6tjeEZcojjsnM/dm/VNeVtdLN8hc6SBsccRaYoL/01G
+nd8oOdmY7ln+kVk1hgAgkaKOUctBdZVuzsrihAv4jJWSZqj9iUfNyzzgl4AytokJ
+UYYVUv75Lu12ixh7xqA6qYWHV22ZQFwPPUPadKj4PFP7X7Jx68ZBjcthtz59KCYT
+dKll4nDFunF8FBuxZmCd10QLEVQJr4I9Cp/AhBivHWAWp12N+IkM+YRYMB/Il6g=
+=jYrU
+-----END PGP SIGNATURE-----
