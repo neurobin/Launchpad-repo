@@ -1,0 +1,7 @@
+rnm (3.0.6-5) trusty; urgency=low
+
+  * Directory reserved index inconsistency fixed.
+  * Added `-cd` and `-cf` options.
+  * Added sort functionality. `-s` for default (natural) sort, `-s/g` for general sort. `-s/n` for natural sort. `-s/none` for no sort.
+
+ -- Jahidul Hamid <jahidulhamid@yahoo.com>  Sun, 02 Aug 2015 23:15:17 +0600
