@@ -1,0 +1,5 @@
+rnm (3.2.0-2) trusty; urgency=critical
+
+  * Directories can be renamed recursively in subdirectories.
+
+ -- Jahidul Hamid <jahidulhamid@yahoo.com>  Tue, 03 Nov 2015 00:35:02 +0600

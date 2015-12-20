@@ -1,0 +1,5 @@
+rnm (3.1.2-2) trusty; urgency=low
+
+  * `\c` and `\C` is added in replace string rules (used in replace_part) for lowercase-uppercase conversion.
+
+ -- Jahidul Hamid <jahidulhamid@yahoo.com>  Fri, 16 Oct 2015 00:26:11 +0600

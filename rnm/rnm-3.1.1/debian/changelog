@@ -1,0 +1,8 @@
+rnm (3.1.1-2) trusty; urgency=low
+
+  * Multiple search strings or files can now be provided by repeating options.
+  * Multiple replace strings or files can now be provided by repeating options.
+  * Multiple file support for replace string and search string.
+  * Status of skipping files due to existing files with same names is changed to Warning from Error.
+
+ -- Jahidul Hamid <jahidulhamid@yahoo.com>  Thu, 15 Oct 2015 19:33:13 +0600

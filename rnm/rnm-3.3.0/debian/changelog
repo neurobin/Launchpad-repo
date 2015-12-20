@@ -1,0 +1,10 @@
+rnm (3.3.0-2) trusty; urgency=critical
+
+  * `-ifp/d` and `-ifp/s` options removed. Numerous options are added to achieve the same effect.
+  * `-ifp/d` and `-ifp/s` options removed. Numerous options are added to achieve the same effect.
+  * Support for base conversion of indexes (from base 2 to 36) added.
+  * Support for Latin conversion of indexes added.
+  * Support for extended name string rules.
+  * Support for extended name string rules of /pd/.
+
+ -- Jahidul Hamid <jahidulhamid@yahoo.com>  Sat, 19 Dec 2015 03:51:28 +0600

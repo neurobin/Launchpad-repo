@@ -1,0 +1,6 @@
+rnm (3.2.2-5) trusty; urgency=critical
+
+  * Bug in index precision fixed (previously index>=100 would become 1e+02)
+  * Follow symbolic link option added.
+
+ -- Jahidul Hamid <jahidulhamid@yahoo.com>  Fri, 20 Nov 2015 23:06:47 +0600

@@ -1,0 +1,6 @@
+linux-vdso 1
+libstdc++ 6
+libm 6
+libgcc_s 1
+libc 6
+/lib64/ld-linux-x86-64 2

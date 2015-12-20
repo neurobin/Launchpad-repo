@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sat, 19 Dec 2015 03:51:28 +0600
+Source: rnm
+Binary: rnm
+Architecture: source
+Version: 3.3.0-2
+Distribution: trusty
+Urgency: critical
+Maintainer: Jahidul Hamid <jahidulhamid@yahoo.com>
+Changed-By: Jahidul Hamid <jahidulhamid@yahoo.com>
+Description: 
+ rnm        - Bulk rename utility
+Changes: 
+ rnm (3.3.0-2) trusty; urgency=critical
+ .
+   * `-ifp/d` and `-ifp/s` options removed. Numerous options are added to achieve the same effect.
+   * `-ifp/d` and `-ifp/s` options removed. Numerous options are added to achieve the same effect.
+   * Support for base conversion of indexes (from base 2 to 36) added.
+   * Support for Latin conversion of indexes added.
+   * Support for extended name string rules.
+   * Support for extended name string rules of /pd/.
+Checksums-Sha1: 
+ d6a48ae9882aa02f2a2af7ad19b0844e0bdf8fe8 1308 rnm_3.3.0-2.dsc
+ fa9a0e0329d98b174f7f0ba38d349f37f245ea3a 129112 rnm_3.3.0.orig.tar.xz
+ 539ad19a247dc2ee54b93120b2cfa556f972a37b 137223 rnm_3.3.0-2.debian.tar.gz
+Checksums-Sha256: 
+ 2c171f3e583d903ce465556ee0530f7dff9822d5ab5105b4355a558f4355ce5a 1308 rnm_3.3.0-2.dsc
+ f264fc223ce4c94794086aa0cffcd7016dcb2758cd3dde35c24f7d4466ae4b3d 129112 rnm_3.3.0.orig.tar.xz
+ 730835e89d3828c518b9e487507b5fad08430aab20828986add14bc7f59fd682 137223 rnm_3.3.0-2.debian.tar.gz
+Files: 
+ 8e8dac4ad079c2a44aad4ed04939e271 1308 utils optional rnm_3.3.0-2.dsc
+ 5f31d8f85e3912924b7bb77294eceaf4 129112 utils optional rnm_3.3.0.orig.tar.xz
+ ef3fb72705b29fa03de097c399fbcb8b 137223 utils optional rnm_3.3.0-2.debian.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJWdJdkAAoJEONn/UzJtwjUSdEIAKsCfO2C6SW6J2xzQoRZ3ZrV
+MUH3jBdnQJ88qQRYSfjLjUZXhkFvp7ob5Q8DLpjpaaZYcRduzbBeox8bNgPr+q0L
+oEMHdVbsvBJvClwm9sCKpdLRrLXdXX3gMQ6VbUetahRCXXlLitWAR5/isVZMqOWl
+0ERO9yQYco/rmkcKqYGPElL+2SSw3ohBGc+YsXmEMyP3rdTQVqS7Cv8QWEgTEPll
+swc0n2SN/v1Hhx4ll7B4x9OOVz91bHo+cxSyuz+FqMdWDOsHjeTrdWvp+g+bRJI+
+O9T8uvRY3SdEFXvWnEHGl0y5ZmFeimij76XJoUxs/LdGnsnkIKnv5qKOLjb1+bw=
+=En7C
+-----END PGP SIGNATURE-----

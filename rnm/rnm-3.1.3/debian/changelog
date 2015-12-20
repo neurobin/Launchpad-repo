@@ -1,0 +1,7 @@
+rnm (3.1.3-2) trusty; urgency=high
+
+  * Fix suffix in regex replace in replace string.
+  * Fix index field precision.
+  * Added back-reference isolation with `{}` i.e `\{12}`, `\{1}` etc..
+
+ -- Jahidul Hamid <jahidulhamid@yahoo.com>  Thu, 29 Oct 2015 18:08:08 +0600

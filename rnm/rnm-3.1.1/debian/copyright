@@ -1,0 +1,27 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: rnm
+Source: http://github.com/neurobin/rnm
+
+Files: *
+Copyright: 2015 Jahidul Hamid <jahidulhamid@yahoo.com>
+License: All rights reserved by the author
+ <Put the license of the package here indented by 1 space>
+ <This follows the format of Description: lines in control file>
+ .
+ <Including paragraphs>
+
+# If you want to use GPL v2 or later for the /debian/* files use 
+# the following clauses, or change it to suit. Delete these two lines
+Files: debian/*
+Copyright: 2015 Jahidul Hamid <jahidulhamid@yahoo.com>
+License: All rights reserved by the author
+ This package is free software; You can use it for commercial
+ or non-commercial purposes.
+ .
+ Redistribution is non-free (Both commercial and non-commercial)
+ .
+ You can share the package with others, as long as you provide a copy of
+ this License statement with it.
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".

@@ -1,0 +1,6 @@
+rnm (3.2.3-2) trusty; urgency=critical
+
+  * Inconsistency in index field precision fixed.
+  * Two more options added: `-ifp/d` and `-ifp/s`.
+
+ -- Jahidul Hamid <jahidulhamid@yahoo.com>  Sat, 21 Nov 2015 13:13:21 +0600

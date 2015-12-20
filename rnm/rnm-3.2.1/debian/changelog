@@ -1,0 +1,5 @@
+rnm (3.2.1-2) trusty; urgency=critical
+
+  * Natural sort algorithm improved/fixed.
+
+ -- Jahidul Hamid <jahidulhamid@yahoo.com>  Tue, 03 Nov 2015 15:53:53 +0600
